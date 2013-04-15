@@ -18,7 +18,7 @@ Béton.css brings an elegant solution to that problem by bundling as many framew
 - **Productivity:** anyone working on your project have at their disposal all the frameworks they are used to and don't have to learn another crazy way to name a button or a grid column.
 - With high speed broadband, who cares about another 700KB in our documents? **More code = more awesome.**
 
-And also because Justin Bieber himself uses it in his web projects.
+And also because Justin Bieber himself uses it in his web projects.  
 ![BELIEBER IN BETON.CSS](http://cdn.memegenerator.net/instances/400x/37014858.jpg)
 
 
