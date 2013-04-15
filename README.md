@@ -2,8 +2,7 @@
 
 Béton.css is the best CSS framework out there. True story.
 
-Obviously the Interwebs really needed another fucking CSS framework.
-Well here it is.
+Obviously the Interwebs really needed another fucking CSS framework. Well here it is.
 
 Thanks to <http://cssdb.co/> — by @rowanmanning — for pointing out the fact that there are too few CSS frameworks out there.
 
@@ -20,8 +19,6 @@ Béton.css brings an elegant solution to that problem by bundling as many framew
 
 And also because Justin Bieber himself uses it in his web projects.  
 ![BELIEBER IN BETON.CSS](http://cdn.memegenerator.net/instances/400x/37014858.jpg)
-
-
 
 ## What's in Béton.css?
 
@@ -48,7 +45,7 @@ Loads. Shit loads, to be precise.
 
 All the things.
 
-Since Béton.css weighs 700KB, it ensures that only wealthy users with 4G or broadband Internet will access your content. It obviously maximizes conversion rates and keeps hippies out of your website. For more tips on how to destroy the web, please watch [Bruce Lawson's talk on the subject](https://vimeo.com/32673398).
+Please note Béton.css weighs 700KB, which ensures that only wealthy users with 4G or broadband Internet will access your content. It obviously maximizes conversion rates and keeps hippies out of your website. For more tips on how to destroy the web, please watch [Bruce Lawson's talk on the subject](https://vimeo.com/32673398).
 
 ## Why is it Called  "Béton.css"
 
@@ -62,3 +59,10 @@ In French, *Béton* means *Concrete*. It's fucking solid and robust.
 
 Your framework in not in Béton.css yet?
 Please help making Béton.css even better and open a pull request right away.
+
+## License
+
+Do whatever the fuck you want with this piece of software.  
+And don't sue me if it breaks your website.
+
+Just respect what the licenses of those frameworks say, or an army of lawyers will knock at your door.
