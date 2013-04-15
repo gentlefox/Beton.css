@@ -24,22 +24,22 @@ And also because Justin Bieber himself uses it in his web projects.
 
 Loads. Shit loads, to be precise.
 
-700KB of goodies, including:
+700KB of goodies, including everything the cool kids use:
 
-- [ROCSSTI](https://github.com/nico3333fr/ROCSSTI) by @nico3333fr
-- [Flaminwork](https://github.com/juanghurtado/flaminwork) by @juanghurtado
-- [KNACSS](https://github.com/raphaelgoetter/KNACSS) by @raphaelgoetter
-- [Rock Hammer](https://github.com/malarkey/rock-hammer) by @malarkey
 - [Normalize.css V1](https://github.com/necolas/normalize.css/tree/v1) by @necolas, again
 - [Normalize.css V2](https://github.com/necolas/normalize.css) by @necolas
-- [Animate.css](https://github.com/daneden/animate.css) by @daneden
+- [inuit.css](https://github.com/csswizardry/inuit.css) by @csswizardry
+- [Pigeon](https://github.com/rowanmanning/pigeon) by @rowanmanning
+- [960 Grid System](https://github.com/nathansmith/960-Grid-System) by @nathansmith
 - [Blueprint CSS](https://github.com/joshuaclayton/blueprint-css) by @joshuaclayton
+- [ROCSSTI](https://github.com/nico3333fr/ROCSSTI) by @nico3333fr
+- [KNACSS](https://github.com/raphaelgoetter/KNACSS) by @raphaelgoetter
+- [Flaminwork](https://github.com/juanghurtado/flaminwork) by @juanghurtado
+- [Rock Hammer](https://github.com/malarkey/rock-hammer) by @malarkey
+- [Animate.css](https://github.com/daneden/animate.css) by @daneden
 - [Preboot](https://github.com/mdo/preboot) by @mdo
 - [Groundwork](https://github.com/groundworkcss/groundwork) by @groundworkcss
 - [Dead Simple Grid](https://github.com/mourner/dead-simple-grid) by @mourner
-- [Pigeon](https://github.com/rowanmanning/pigeon) by @rowanmanning
-- [960 Grid System](https://github.com/nathansmith/960-Grid-System) by @nathansmith
-- [inuit.css](https://github.com/csswizardry/inuit.css) by @csswizardry
 
 ## Compatibility
 
